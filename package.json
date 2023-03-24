@@ -22,7 +22,11 @@
   "dependencies": {
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
+    "@nestjs/microservices": "^9.3.12",
     "@nestjs/platform-express": "^9.0.0",
+    "@slack/events-api": "^3.0.1",
+    "@slack/web-api": "^6.8.1",
+    "@supabase/supabase-js": "^2.12.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
   },
